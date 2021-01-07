@@ -3,22 +3,4 @@
    uuid = "FF1EA34E-B1E4-47E4-9C59-F1805A12E193"
    type = "1"
    version = "2.0">
-   <Breakpoints>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B05D20F8-4C5A-44B4-86FB-DB8FDFCF9698"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "DesignPattenSwift/CreateType(&#x521b;&#x5efa;&#x578b;)/Singleton(&#x5355;&#x4f8b;)/SIngletonViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
-            landmarkName = "viewDidLoad()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-   </Breakpoints>
 </Bucket>

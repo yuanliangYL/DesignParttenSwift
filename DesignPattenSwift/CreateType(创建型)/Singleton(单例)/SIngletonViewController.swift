@@ -13,18 +13,29 @@ class SIngletonViewController: BaseViewController {
         super.viewDidLoad()
 
         let mask1 = ElonMusk.shareMssk
+        //swift 4/5
+        print(Unmanaged.passUnretained(mask1).toOpaque())
+
+
 
         let mask2 = ElonMusk.shareMssk
+        print(Unmanaged.passUnretained(mask2).toOpaque())
+
 
         let mask3 = ElonMusk.shareMssk
+        print(Unmanaged.passUnretained(mask3).toOpaque())
+
 
         let mask4 = ElonMusk.shareMssk
+        print(Unmanaged.passUnretained(mask4).toOpaque())
+
 
         let mask5 = ElonMusk.shareMssk
+        print(Unmanaged.passUnretained(mask5).toOpaque())
 
-        print("\(mask1),\(mask2),\(mask3),\(mask4),\(mask5)")
 
     }
+    
 
     /*
     // MARK: - Navigation
